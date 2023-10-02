@@ -61,6 +61,21 @@ const FeedingThePacific = () => {
               intricate world of food trade in the Pacific region. Unveil the
               origins, dynamics, and trends shaping our food landscape.
             </p>
+            <br />
+            <p
+              className="max-w-xl
+              text-gray-600 font-light 
+              text-xs leading-5 tracking-tight
+              sm:text-sm sm:leading-6
+              lg:text-md lg:leading-7"
+            >
+              Get ready to view Pacific food trade through interactive data
+              visualizations, accessible seamlessly across all web platforms,
+              including{" "}
+              <span className="font-bold">
+                desktops, laptops, tablets, and mobile devices.
+              </span>
+            </p>
           </div>
 
           <div className="space-y-3">

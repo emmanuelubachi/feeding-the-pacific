@@ -81,7 +81,7 @@ const FeedingThePacific = () => {
           <div className="space-y-3">
             <div className=" flex justify-center">
               <Link
-                href="https://pacific-food-trade-clfjel80p-emmanuelubachis-projects.vercel.app/"
+                href="https://pacific-food-trade.vercel.app/"
                 className="inline-flex items-center px-16 py-2.5
                   text-md font-medium text-center text-white 
                   bg-pri-13/90 rounded-lg transition-transform ease-in-out duration-300
